@@ -64,7 +64,8 @@ Everything else moves MN9 by less than ±35%, most under 10%.
   and 61%. The observed ratio is **consistent with independent parallel
   channels** — the multiplicative prediction 0.57×0.61 = 0.34 lies within
   1 SEM of 0.42 — while the serial prediction (pair ≈ the weaker single ≈
-  0.57) and the additive prediction (0.17) are excluded at ~2 and ~3 SEM.
+  0.57) is disfavored at ~1.8 SEM (≈ p 0.07) and the additive prediction
+  (0.17) is excluded at ~2.9 SEM.
 - **Quint** (pair + 3 more from the screen's next tier): MN9 → **5.5 Hz,
   26%.** Which three actually joined? The parquets don't record silenced
   sets (silencing zeroes outgoing synapses; the cells keep spiking, their

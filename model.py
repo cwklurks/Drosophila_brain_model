@@ -333,6 +333,7 @@ def run_exp(exp_name, neu_exc, path_res, path_comp, path_con,
     path_res, path_comp, path_con = [ Path(i) for i in [path_res, path_comp, path_con] ]
 
     # define output files
+    path_res.mkdir(parents=True, exist_ok=True)
     path_save = path_res / '{}.parquet'.format(exp_name)
     if path_save.is_file() and not force_overwrite:
         print('>>> Skipping experiment {} because {} exists and force_overwrite = {}'.format(exp_name, path_save, force_overwrite))

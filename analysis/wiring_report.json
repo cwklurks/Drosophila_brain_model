@@ -1,0 +1,4524 @@
+{
+ "mn9_inputs": [
+  {
+   "pre_id": 720575940605513649,
+   "w": -75,
+   "slnc50_none": 0.5,
+   "slnc50_pair": 0.2,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -37.5,
+   "drive_slnc50_pair": -15.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940605723593,
+   "w": -68,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940607162754,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940607188610,
+   "w": -48,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940607193986,
+   "w": 2,
+   "slnc50_none": 6.9,
+   "slnc50_pair": 2.7,
+   "slnc50_quint": 1.5,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 13.8,
+   "drive_slnc50_pair": 5.4,
+   "drive_slnc50_quint": 3.0
+  },
+  {
+   "pre_id": 720575940607272649,
+   "w": 3,
+   "slnc50_none": 10.7,
+   "slnc50_pair": 5.2,
+   "slnc50_quint": 4.5,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 32.099999999999994,
+   "drive_slnc50_pair": 15.600000000000001,
+   "drive_slnc50_quint": 13.5
+  },
+  {
+   "pre_id": 720575940607377586,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940607386290,
+   "w": 1,
+   "slnc50_none": 1.7,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 1.7,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940608498780,
+   "w": -1,
+   "slnc50_none": 2.9,
+   "slnc50_pair": 1.1,
+   "slnc50_quint": 0.3,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -2.9,
+   "drive_slnc50_pair": -1.1,
+   "drive_slnc50_quint": -0.3
+  },
+  {
+   "pre_id": 720575940609376707,
+   "w": 5,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940609407939,
+   "w": 88,
+   "slnc50_none": 8.1,
+   "slnc50_pair": 3.1,
+   "slnc50_quint": 2.3,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 712.8,
+   "drive_slnc50_pair": 272.8,
+   "drive_slnc50_quint": 202.39999999999998
+  },
+  {
+   "pre_id": 720575940609935172,
+   "w": -1,
+   "slnc50_none": 3.2,
+   "slnc50_pair": 1.3,
+   "slnc50_quint": 0.3,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -3.2,
+   "drive_slnc50_pair": -1.3,
+   "drive_slnc50_quint": -0.3
+  },
+  {
+   "pre_id": 720575940610055982,
+   "w": 19,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940610487410,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940610610841,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940610677828,
+   "w": -82,
+   "slnc50_none": 5.2,
+   "slnc50_pair": 1.3,
+   "slnc50_quint": 0.4,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -426.40000000000003,
+   "drive_slnc50_pair": -106.60000000000001,
+   "drive_slnc50_quint": -32.800000000000004
+  },
+  {
+   "pre_id": 720575940610803554,
+   "w": -1,
+   "slnc50_none": 1.0,
+   "slnc50_pair": 0.8,
+   "slnc50_quint": 0.8,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -1.0,
+   "drive_slnc50_pair": -0.8,
+   "drive_slnc50_quint": -0.8
+  },
+  {
+   "pre_id": 720575940610850965,
+   "w": 5,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940611167842,
+   "w": -155,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940611442296,
+   "w": 8,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940612206810,
+   "w": -5,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940612208858,
+   "w": -1,
+   "slnc50_none": 0.6,
+   "slnc50_pair": 1.3,
+   "slnc50_quint": 1.3,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.6,
+   "drive_slnc50_pair": -1.3,
+   "drive_slnc50_quint": -1.3
+  },
+  {
+   "pre_id": 720575940612268199,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940612336819,
+   "w": 14,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940612357618,
+   "w": 1,
+   "slnc50_none": 1.7,
+   "slnc50_pair": 1.0,
+   "slnc50_quint": 0.3,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 1.7,
+   "drive_slnc50_pair": 1.0,
+   "drive_slnc50_quint": 0.3
+  },
+  {
+   "pre_id": 720575940612443890,
+   "w": -16,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940612488341,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940612603033,
+   "w": -23,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940612642730,
+   "w": 6,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940612686233,
+   "w": -10,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940613112293,
+   "w": -2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940613154582,
+   "w": -3,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940613347299,
+   "w": 5,
+   "slnc50_none": 5.1,
+   "slnc50_pair": 2.2,
+   "slnc50_quint": 0.7,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 25.5,
+   "drive_slnc50_pair": 11.0,
+   "drive_slnc50_quint": 3.5
+  },
+  {
+   "pre_id": 720575940613640685,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940613879227,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940613958194,
+   "w": -5,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940614165201,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940614349974,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940614660263,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940615041430,
+   "w": -1,
+   "slnc50_none": 41.8,
+   "slnc50_pair": 36.1,
+   "slnc50_quint": 29.7,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": true,
+   "drive_slnc50_none": -41.8,
+   "drive_slnc50_pair": -36.1,
+   "drive_slnc50_quint": -29.7
+  },
+  {
+   "pre_id": 720575940615323298,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940615410911,
+   "w": -38,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940615564959,
+   "w": -1,
+   "slnc50_none": 0.4,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.4,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940615582111,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940615666655,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940615671106,
+   "w": 2,
+   "slnc50_none": 16.5,
+   "slnc50_pair": 5.2,
+   "slnc50_quint": 3.5,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 33.0,
+   "drive_slnc50_pair": 10.4,
+   "drive_slnc50_quint": 7.0
+  },
+  {
+   "pre_id": 720575940615672130,
+   "w": 13,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940615914123,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940616164658,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940616186507,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940616194610,
+   "w": -5,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940616466260,
+   "w": -1,
+   "slnc50_none": 7.4,
+   "slnc50_pair": 2.8,
+   "slnc50_quint": 0.9,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -7.4,
+   "drive_slnc50_pair": -2.8,
+   "drive_slnc50_quint": -0.9
+  },
+  {
+   "pre_id": 720575940616597334,
+   "w": -4,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940616851030,
+   "w": -27,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940616857174,
+   "w": 25,
+   "slnc50_none": 7.5,
+   "slnc50_pair": 2.1,
+   "slnc50_quint": 1.2,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 187.5,
+   "drive_slnc50_pair": 52.5,
+   "drive_slnc50_quint": 30.0
+  },
+  {
+   "pre_id": 720575940616864086,
+   "w": -2,
+   "slnc50_none": 6.2,
+   "slnc50_pair": 2.8,
+   "slnc50_quint": 1.4,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -12.4,
+   "drive_slnc50_pair": -5.6,
+   "drive_slnc50_quint": -2.8
+  },
+  {
+   "pre_id": 720575940616864217,
+   "w": -7,
+   "slnc50_none": 5.7,
+   "slnc50_pair": 2.9,
+   "slnc50_quint": 0.1,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -39.9,
+   "drive_slnc50_pair": -20.3,
+   "drive_slnc50_quint": -0.7000000000000001
+  },
+  {
+   "pre_id": 720575940617031385,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940617097684,
+   "w": -7,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940617399257,
+   "w": 32,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940617432065,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940617494877,
+   "w": 1,
+   "slnc50_none": 0.1,
+   "slnc50_pair": 0.1,
+   "slnc50_quint": 0.1,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.1,
+   "drive_slnc50_pair": 0.1,
+   "drive_slnc50_quint": 0.1
+  },
+  {
+   "pre_id": 720575940617497437,
+   "w": -1,
+   "slnc50_none": 0.1,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.1,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940617499741,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940617678566,
+   "w": 3,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940617787963,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940618028125,
+   "w": -183,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940618092289,
+   "w": 3,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940618291520,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940618514043,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940619038366,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940619058334,
+   "w": -7,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940619097905,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940619114048,
+   "w": 20,
+   "slnc50_none": 2.9,
+   "slnc50_pair": 1.1,
+   "slnc50_quint": 0.3,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 58.0,
+   "drive_slnc50_pair": 22.0,
+   "drive_slnc50_quint": 6.0
+  },
+  {
+   "pre_id": 720575940619155264,
+   "w": -8,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940619176094,
+   "w": 3,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940619767073,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940619771375,
+   "w": 4,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940619822942,
+   "w": 3,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940619837473,
+   "w": 12,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940619853515,
+   "w": 561,
+   "slnc50_none": 8.8,
+   "slnc50_pair": 2.6,
+   "slnc50_quint": 1.4,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 4936.8,
+   "drive_slnc50_pair": 1458.6000000000001,
+   "drive_slnc50_quint": 785.4
+  },
+  {
+   "pre_id": 720575940619877396,
+   "w": 32,
+   "slnc50_none": 15.6,
+   "slnc50_pair": 5.7,
+   "slnc50_quint": 3.4,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 499.2,
+   "drive_slnc50_pair": 182.4,
+   "drive_slnc50_quint": 108.8
+  },
+  {
+   "pre_id": 720575940620038822,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940620062288,
+   "w": -3,
+   "slnc50_none": 0.6,
+   "slnc50_pair": 0.3,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -1.7999999999999998,
+   "drive_slnc50_pair": -0.8999999999999999,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940620116833,
+   "w": -2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940620156209,
+   "w": -267,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940620297819,
+   "w": -1,
+   "slnc50_none": 0.3,
+   "slnc50_pair": 0.2,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.3,
+   "drive_slnc50_pair": -0.2,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940620580272,
+   "w": 6,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940620861934,
+   "w": -12,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940621068464,
+   "w": 3,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940621116510,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940621150191,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940621166625,
+   "w": -3,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940621261296,
+   "w": 11,
+   "slnc50_none": 6.1,
+   "slnc50_pair": 1.8,
+   "slnc50_quint": 0.4,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 67.1,
+   "drive_slnc50_pair": 19.8,
+   "drive_slnc50_quint": 4.4
+  },
+  {
+   "pre_id": 720575940621354736,
+   "w": -9,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940621422518,
+   "w": -9,
+   "slnc50_none": 1.2,
+   "slnc50_pair": 0.3,
+   "slnc50_quint": 0.1,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -10.799999999999999,
+   "drive_slnc50_pair": -2.6999999999999997,
+   "drive_slnc50_quint": -0.9
+  },
+  {
+   "pre_id": 720575940621848063,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940621900981,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940622018309,
+   "w": -11,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940622021637,
+   "w": -71,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940622195625,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.4,
+   "slnc50_quint": 0.7,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.4,
+   "drive_slnc50_quint": 0.7
+  },
+  {
+   "pre_id": 720575940622351996,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940622624214,
+   "w": 22,
+   "slnc50_none": 0.4,
+   "slnc50_pair": 0.5,
+   "slnc50_quint": 0.2,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 8.8,
+   "drive_slnc50_pair": 11.0,
+   "drive_slnc50_quint": 4.4
+  },
+  {
+   "pre_id": 720575940622632084,
+   "w": 5,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940622921827,
+   "w": 95,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940623132621,
+   "w": -24,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940623164685,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940623211725,
+   "w": 424,
+   "slnc50_none": 9.2,
+   "slnc50_pair": 3.2,
+   "slnc50_quint": 0.7,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 3900.7999999999997,
+   "drive_slnc50_pair": 1356.8000000000002,
+   "drive_slnc50_quint": 296.79999999999995
+  },
+  {
+   "pre_id": 720575940623224811,
+   "w": -38,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940623264904,
+   "w": 2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940623379750,
+   "w": -2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940623663084,
+   "w": 8,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940623676394,
+   "w": -3,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940623697898,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940623781611,
+   "w": 23,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940623918121,
+   "w": -20,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940623924104,
+   "w": 3,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940624038663,
+   "w": -10,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940624220925,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940624447240,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940624756297,
+   "w": -2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940624877360,
+   "w": -5,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940624966840,
+   "w": -6,
+   "slnc50_none": 3.7,
+   "slnc50_pair": 1.2,
+   "slnc50_quint": 0.3,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -22.200000000000003,
+   "drive_slnc50_pair": -7.199999999999999,
+   "drive_slnc50_quint": -1.7999999999999998
+  },
+  {
+   "pre_id": 720575940624986300,
+   "w": -96,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940625002936,
+   "w": -63,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940625164176,
+   "w": -5,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940625620888,
+   "w": -3,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940625863728,
+   "w": 3,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940625867056,
+   "w": 1,
+   "slnc50_none": 6.7,
+   "slnc50_pair": 7.0,
+   "slnc50_quint": 7.5,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 6.7,
+   "drive_slnc50_pair": 7.0,
+   "drive_slnc50_quint": 7.5
+  },
+  {
+   "pre_id": 720575940626038714,
+   "w": 6,
+   "slnc50_none": 2.1,
+   "slnc50_pair": 0.8,
+   "slnc50_quint": 0.4,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 12.600000000000001,
+   "drive_slnc50_pair": 4.800000000000001,
+   "drive_slnc50_quint": 2.4000000000000004
+  },
+  {
+   "pre_id": 720575940626109982,
+   "w": 43,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940626179614,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940626229849,
+   "w": 120,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940626279486,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940626672058,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940626860421,
+   "w": -10,
+   "slnc50_none": 0.1,
+   "slnc50_pair": 0.2,
+   "slnc50_quint": 0.2,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -1.0,
+   "drive_slnc50_pair": -2.0,
+   "drive_slnc50_quint": -2.0
+  },
+  {
+   "pre_id": 720575940626960536,
+   "w": -39,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940626961241,
+   "w": -185,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940627015196,
+   "w": -63,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940627107721,
+   "w": 2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.3,
+   "slnc50_quint": 0.3,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.6,
+   "drive_slnc50_quint": 0.6
+  },
+  {
+   "pre_id": 720575940627234069,
+   "w": -9,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940627366675,
+   "w": -2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940627410451,
+   "w": 1,
+   "slnc50_none": 7.9,
+   "slnc50_pair": 2.8,
+   "slnc50_quint": 1.5,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 7.9,
+   "drive_slnc50_pair": 2.8,
+   "drive_slnc50_quint": 1.5
+  },
+  {
+   "pre_id": 720575940627739023,
+   "w": 2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940627779983,
+   "w": 1,
+   "slnc50_none": 2.6,
+   "slnc50_pair": 0.5,
+   "slnc50_quint": 0.2,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 2.6,
+   "drive_slnc50_pair": 0.5,
+   "drive_slnc50_quint": 0.2
+  },
+  {
+   "pre_id": 720575940627814728,
+   "w": 4,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940627819151,
+   "w": -2,
+   "slnc50_none": 3.7,
+   "slnc50_pair": 1.6,
+   "slnc50_quint": 0.7,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -7.4,
+   "drive_slnc50_pair": -3.2,
+   "drive_slnc50_quint": -1.4
+  },
+  {
+   "pre_id": 720575940627827697,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940627847752,
+   "w": 74,
+   "slnc50_none": 8.8,
+   "slnc50_pair": 1.3,
+   "slnc50_quint": 0.4,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 651.2,
+   "drive_slnc50_pair": 96.2,
+   "drive_slnc50_quint": 29.6
+  },
+  {
+   "pre_id": 720575940628209680,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940628659049,
+   "w": 5,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940628746690,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940628762471,
+   "w": -4,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940628826128,
+   "w": -1,
+   "slnc50_none": 9.3,
+   "slnc50_pair": 3.9,
+   "slnc50_quint": 1.7,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -9.3,
+   "drive_slnc50_pair": -3.9,
+   "drive_slnc50_quint": -1.7
+  },
+  {
+   "pre_id": 720575940628997123,
+   "w": -1,
+   "slnc50_none": 6.9,
+   "slnc50_pair": 4.1,
+   "slnc50_quint": 2.9,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -6.9,
+   "drive_slnc50_pair": -4.1,
+   "drive_slnc50_quint": -2.9
+  },
+  {
+   "pre_id": 720575940629373890,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940629398466,
+   "w": -2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940629486075,
+   "w": 6,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940629561347,
+   "w": 2,
+   "slnc50_none": 4.2,
+   "slnc50_pair": 1.8,
+   "slnc50_quint": 0.9,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 8.4,
+   "drive_slnc50_pair": 3.6,
+   "drive_slnc50_quint": 1.8
+  },
+  {
+   "pre_id": 720575940629564688,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940629744599,
+   "w": 6,
+   "slnc50_none": 0.2,
+   "slnc50_pair": 0.8,
+   "slnc50_quint": 0.7,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 1.2000000000000002,
+   "drive_slnc50_pair": 4.800000000000001,
+   "drive_slnc50_quint": 4.199999999999999
+  },
+  {
+   "pre_id": 720575940629773276,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940629804158,
+   "w": -2,
+   "slnc50_none": 0.3,
+   "slnc50_pair": 0.2,
+   "slnc50_quint": 0.7,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.6,
+   "drive_slnc50_pair": -0.4,
+   "drive_slnc50_quint": -1.4
+  },
+  {
+   "pre_id": 720575940629854914,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940629946951,
+   "w": -44,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940630122796,
+   "w": 4,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940630181852,
+   "w": -7,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940630246460,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940630307639,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940630480348,
+   "w": -4,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940630679801,
+   "w": -29,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940630820919,
+   "w": 4,
+   "slnc50_none": 5.5,
+   "slnc50_pair": 1.8,
+   "slnc50_quint": 0.3,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 22.0,
+   "drive_slnc50_pair": 7.2,
+   "drive_slnc50_quint": 1.2
+  },
+  {
+   "pre_id": 720575940631349335,
+   "w": 1,
+   "slnc50_none": 8.2,
+   "slnc50_pair": 8.0,
+   "slnc50_quint": 8.5,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 8.2,
+   "drive_slnc50_pair": 8.0,
+   "drive_slnc50_quint": 8.5
+  },
+  {
+   "pre_id": 720575940631365089,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940631417057,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940631429707,
+   "w": 106,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940631662648,
+   "w": 1,
+   "slnc50_none": 1.8,
+   "slnc50_pair": 0.2,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 1.8,
+   "drive_slnc50_pair": 0.2,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940631918649,
+   "w": -4,
+   "slnc50_none": 15.4,
+   "slnc50_pair": 6.2,
+   "slnc50_quint": 1.9,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -61.6,
+   "drive_slnc50_pair": -24.8,
+   "drive_slnc50_quint": -7.6
+  },
+  {
+   "pre_id": 720575940631994728,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.1,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.1
+  },
+  {
+   "pre_id": 720575940632030008,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940632126412,
+   "w": -44,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940632252743,
+   "w": 281,
+   "slnc50_none": 11.8,
+   "slnc50_pair": 6.6,
+   "slnc50_quint": 3.9,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 3315.8,
+   "drive_slnc50_pair": 1854.6,
+   "drive_slnc50_quint": 1095.8999999999999
+  },
+  {
+   "pre_id": 720575940632365905,
+   "w": 1,
+   "slnc50_none": 2.3,
+   "slnc50_pair": 1.6,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 2.3,
+   "drive_slnc50_pair": 1.6,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940632486969,
+   "w": 2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940632722636,
+   "w": -29,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940632726220,
+   "w": -100,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940632815780,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940632847661,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940632974443,
+   "w": 2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940633316307,
+   "w": 146,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940633373651,
+   "w": 2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.1,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.2
+  },
+  {
+   "pre_id": 720575940633416604,
+   "w": 4,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940633488153,
+   "w": 8,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940633762714,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940633796252,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940634428058,
+   "w": -3,
+   "slnc50_none": 0.5,
+   "slnc50_pair": 0.2,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -1.5,
+   "drive_slnc50_pair": -0.6000000000000001,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940634459290,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940635164779,
+   "w": -2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940635462757,
+   "w": 2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940635596212,
+   "w": -39,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940636029807,
+   "w": -2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940636053678,
+   "w": -4,
+   "slnc50_none": 26.3,
+   "slnc50_pair": 11.0,
+   "slnc50_quint": 11.7,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -105.2,
+   "drive_slnc50_pair": -44.0,
+   "drive_slnc50_quint": -46.8
+  },
+  {
+   "pre_id": 720575940636552805,
+   "w": 92,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940636649061,
+   "w": -2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940636809646,
+   "w": -448,
+   "slnc50_none": 3.3,
+   "slnc50_pair": 1.2,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -1478.3999999999999,
+   "drive_slnc50_pair": -537.6,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940637144944,
+   "w": 2,
+   "slnc50_none": 2.3,
+   "slnc50_pair": 2.7,
+   "slnc50_quint": 3.9,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 4.6,
+   "drive_slnc50_pair": 5.4,
+   "drive_slnc50_quint": 7.8
+  },
+  {
+   "pre_id": 720575940637530084,
+   "w": 4,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940637656286,
+   "w": 4,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.1,
+   "slnc50_quint": 0.1,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.4,
+   "drive_slnc50_quint": 0.4
+  },
+  {
+   "pre_id": 720575940638001498,
+   "w": 2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940638810677,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940638989894,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940639769715,
+   "w": -10,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940639830179,
+   "w": 1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940640096976,
+   "w": -5,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940640162944,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940640407923,
+   "w": -14,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940641281013,
+   "w": -257,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940643867296,
+   "w": -10,
+   "slnc50_none": 5.6,
+   "slnc50_pair": 5.9,
+   "slnc50_quint": 5.8,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -56.0,
+   "drive_slnc50_pair": -59.0,
+   "drive_slnc50_quint": -58.0
+  },
+  {
+   "pre_id": 720575940644022551,
+   "w": 5,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": 0.0,
+   "drive_slnc50_pair": 0.0,
+   "drive_slnc50_quint": 0.0
+  },
+  {
+   "pre_id": 720575940644653348,
+   "w": -7,
+   "slnc50_none": 6.5,
+   "slnc50_pair": 2.0,
+   "slnc50_quint": 0.5,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -45.5,
+   "drive_slnc50_pair": -14.0,
+   "drive_slnc50_quint": -3.5
+  },
+  {
+   "pre_id": 720575940644995950,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940645528430,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940645556334,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940647010356,
+   "w": -48,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940647023156,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940647031860,
+   "w": -2,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940649829241,
+   "w": -173,
+   "slnc50_none": 4.7,
+   "slnc50_pair": 1.0,
+   "slnc50_quint": 0.3,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -813.1,
+   "drive_slnc50_pair": -173.0,
+   "drive_slnc50_quint": -51.9
+  },
+  {
+   "pre_id": 720575940660219521,
+   "w": -1,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  },
+  {
+   "pre_id": 720575940660233601,
+   "w": -42,
+   "slnc50_none": 0.0,
+   "slnc50_pair": 0.0,
+   "slnc50_quint": 0.0,
+   "is_grn": false,
+   "is_relay": false,
+   "is_brake": false,
+   "drive_slnc50_none": -0.0,
+   "drive_slnc50_pair": -0.0,
+   "drive_slnc50_quint": -0.0
+  }
+ ],
+ "brake_out": [
+  {
+   "post_id": 720575940629786624,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940629561347,
+   "Excitatory x Connectivity": -9
+  },
+  {
+   "post_id": 720575940628164612,
+   "Excitatory x Connectivity": -15
+  },
+  {
+   "post_id": 720575940608188427,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940607991819,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940628826128,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940620347412,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940621170721,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940619837473,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940643315748,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940626073637,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940632305711,
+   "Excitatory x Connectivity": -19
+  },
+  {
+   "post_id": 720575940625852464,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940632043576,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940631703608,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940631715896,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940631662648,
+   "Excitatory x Connectivity": -105
+  },
+  {
+   "post_id": 720575940628041800,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940627286088,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940630839371,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940616570966,
+   "Excitatory x Connectivity": -63
+  },
+  {
+   "post_id": 720575940635175007,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940624324708,
+   "Excitatory x Connectivity": -10
+  },
+  {
+   "post_id": 720575940624496740,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940605282406,
+   "Excitatory x Connectivity": -17
+  },
+  {
+   "post_id": 720575940629977192,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940636346487,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940619077755,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940629239934,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940626770057,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940617519243,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940616362123,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940617629841,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940626960536,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940618608805,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940620714150,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940620497062,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940612255914,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940632699053,
+   "Excitatory x Connectivity": -34
+  },
+  {
+   "post_id": 720575940636053678,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940613589167,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940607250610,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940611881139,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940635611316,
+   "Excitatory x Connectivity": -60
+  },
+  {
+   "post_id": 720575940607377586,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940619346102,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940615715003,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940624986300,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940611502286,
+   "Excitatory x Connectivity": -9
+  },
+  {
+   "post_id": 720575940611008718,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940612208858,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940629936348,
+   "Excitatory x Connectivity": -33
+  },
+  {
+   "post_id": 720575940633772257,
+   "Excitatory x Connectivity": -6
+  },
+  {
+   "post_id": 720575940633293025,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940612479205,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940641480949,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940628971779,
+   "Excitatory x Connectivity": -28
+  },
+  {
+   "post_id": 720575940616014092,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940621568269,
+   "Excitatory x Connectivity": -14
+  },
+  {
+   "post_id": 720575940622612749,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940632047890,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940627810581,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940627167516,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940621771041,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940644653348,
+   "Excitatory x Connectivity": -16
+  },
+  {
+   "post_id": 720575940632029496,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940630233404,
+   "Excitatory x Connectivity": -36
+  },
+  {
+   "post_id": 720575940610001220,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940632252743,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940622500172,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940629025103,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940626952537,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940626399588,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940631994728,
+   "Excitatory x Connectivity": -100
+  },
+  {
+   "post_id": 720575940631939432,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940614588778,
+   "Excitatory x Connectivity": -9
+  },
+  {
+   "post_id": 720575940645527918,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940630579574,
+   "Excitatory x Connectivity": -35
+  },
+  {
+   "post_id": 720575940636479863,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940629780858,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940660220289,
+   "Excitatory x Connectivity": -9
+  },
+  {
+   "post_id": 720575940607162754,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940627779983,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940617593233,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940614386070,
+   "Excitatory x Connectivity": -268
+  },
+  {
+   "post_id": 720575940613929391,
+   "Excitatory x Connectivity": -22
+  },
+  {
+   "post_id": 720575940617568697,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940624484796,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940634388927,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940619751872,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940635576767,
+   "Excitatory x Connectivity": -13
+  },
+  {
+   "post_id": 720575940622027222,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940631695841,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940613112293,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940624163303,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940623614442,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940619872751,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940621261296,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940612438514,
+   "Excitatory x Connectivity": -33
+  },
+  {
+   "post_id": 720575940629508599,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940630139386,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940629486075,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940627595772,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940612801022,
+   "Excitatory x Connectivity": -12
+  },
+  {
+   "post_id": 720575940628998659,
+   "Excitatory x Connectivity": -6
+  },
+  {
+   "post_id": 720575940618166811,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940626993694,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940604783136,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940605950496,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940623415849,
+   "Excitatory x Connectivity": -33
+  },
+  {
+   "post_id": 720575940616194610,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940626936378,
+   "Excitatory x Connectivity": -30
+  },
+  {
+   "post_id": 720575940626278974,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940615076418,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940627847752,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940629000783,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940639425112,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940626229849,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940635187807,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940639421043,
+   "Excitatory x Connectivity": -56
+  },
+  {
+   "post_id": 720575940621845119,
+   "Excitatory x Connectivity": -9
+  },
+  {
+   "post_id": 720575940648188548,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940616462987,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940635050638,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940627819151,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940617554577,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940634782359,
+   "Excitatory x Connectivity": -11
+  },
+  {
+   "post_id": 720575940619397797,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940620182181,
+   "Excitatory x Connectivity": -23
+  },
+  {
+   "post_id": 720575940620374693,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940636879534,
+   "Excitatory x Connectivity": -18
+  },
+  {
+   "post_id": 720575940636828334,
+   "Excitatory x Connectivity": -18
+  },
+  {
+   "post_id": 720575940615658171,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940639285949,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940629672642,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940609405635,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940632726220,
+   "Excitatory x Connectivity": -36
+  },
+  {
+   "post_id": 720575940614165201,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940622066390,
+   "Excitatory x Connectivity": -6
+  },
+  {
+   "post_id": 720575940613079781,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940624876275,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940624220925,
+   "Excitatory x Connectivity": -6
+  },
+  {
+   "post_id": 720575940628417280,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940622537477,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940628441862,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940624038663,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940608901897,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940627368723,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940618165019,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940617444130,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940644758308,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940642894628,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940623381286,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940615596850,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940627403578,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940626527055,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940616848214,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940617497437,
+   "Excitatory x Connectivity": -16
+  },
+  {
+   "post_id": 720575940634538847,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940636044143,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940649829241,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940629123966,
+   "Excitatory x Connectivity": -11
+  },
+  {
+   "post_id": 720575940629805950,
+   "Excitatory x Connectivity": -11
+  },
+  {
+   "post_id": 720575940639634304,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940607193986,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940641833869,
+   "Excitatory x Connectivity": -52
+  },
+  {
+   "post_id": 720575940614200214,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940634825623,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940618574749,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940619549598,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940614734754,
+   "Excitatory x Connectivity": -21
+  },
+  {
+   "post_id": 720575940622195625,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940620805046,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940621583286,
+   "Excitatory x Connectivity": -13
+  },
+  {
+   "post_id": 720575940625191868,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940625580988,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940625705930,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940633316307,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940621577174,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940629744599,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940618859480,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940626181096,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940611156978,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940641281013,
+   "Excitatory x Connectivity": -12
+  },
+  {
+   "post_id": 720575940635634680,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940621429757,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940622021637,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940616018956,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940631381007,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940619877396,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940623918121,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940647228468,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940647031860,
+   "Excitatory x Connectivity": -20
+  },
+  {
+   "post_id": 720575940617667638,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940647021620,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940632028216,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940631168057,
+   "Excitatory x Connectivity": -6
+  },
+  {
+   "post_id": 720575940626279486,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940621833281,
+   "Excitatory x Connectivity": -14
+  },
+  {
+   "post_id": 720575940610677828,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940629267531,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940617325654,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940630996055,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940632001640,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940628669545,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940631989352,
+   "Excitatory x Connectivity": -12
+  },
+  {
+   "post_id": 720575940633799787,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940614222965,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940659860609,
+   "Excitatory x Connectivity": -9
+  },
+  {
+   "post_id": 720575940636685454,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940614349974,
+   "Excitatory x Connectivity": -13
+  },
+  {
+   "post_id": 720575940634139799,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940631987364,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940620541099,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940612336819,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940621765813,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940624966840,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940614235323,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940620037312,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940620473547,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940632722636,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940623211725,
+   "Excitatory x Connectivity": -100
+  },
+  {
+   "post_id": 720575940610995410,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940633308371,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940633316563,
+   "Excitatory x Connectivity": -13
+  },
+  {
+   "post_id": 720575940615970015,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940615410911,
+   "Excitatory x Connectivity": -9
+  },
+  {
+   "post_id": 720575940612611301,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940617403622,
+   "Excitatory x Connectivity": -9
+  },
+  {
+   "post_id": 720575940652580086,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940627827964,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940623457535,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940625962242,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940626494722,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940629564688,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940620301588,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940611507478,
+   "Excitatory x Connectivity": -9
+  },
+  {
+   "post_id": 720575940623037720,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940616033563,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940646526243,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940623385894,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940623426854,
+   "Excitatory x Connectivity": -15
+  },
+  {
+   "post_id": 720575940647560500,
+   "Excitatory x Connectivity": -48
+  },
+  {
+   "post_id": 720575940630291767,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940632042808,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940629929273,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940616695099,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940629792060,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940615671106,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940632307025,
+   "Excitatory x Connectivity": -16
+  },
+  {
+   "post_id": 720575940630678867,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940632722771,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940634862943,
+   "Excitatory x Connectivity": -9
+  },
+  {
+   "post_id": 720575940623478115,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940628755815,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940628129129,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940628688246,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940660219265,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940660233601,
+   "Excitatory x Connectivity": -10
+  },
+  {
+   "post_id": 720575940646952324,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940627361157,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940631643532,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940641781133,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940655013281,
+   "Excitatory x Connectivity": -13
+  },
+  {
+   "post_id": 720575940614022575,
+   "Excitatory x Connectivity": -10
+  },
+  {
+   "post_id": 720575940607641010,
+   "Excitatory x Connectivity": -6
+  },
+  {
+   "post_id": 720575940611548595,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940635596212,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940624983480,
+   "Excitatory x Connectivity": -34
+  },
+  {
+   "post_id": 720575940626085306,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940640839120,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940622624214,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940614815199,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940637662697,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940640978421,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940636165624,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940630781433,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940631023099,
+   "Excitatory x Connectivity": -39
+  },
+  {
+   "post_id": 720575940627410451,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940612906518,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940645047831,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940619615770,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940626179614,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940617440802,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940630726188,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940632200749,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940611151406,
+   "Excitatory x Connectivity": -22
+  },
+  {
+   "post_id": 720575940646530612,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940631959097,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940626888250,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940629810748,
+   "Excitatory x Connectivity": -20
+  },
+  {
+   "post_id": 720575940614909506,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940638989894,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940627828296,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940625557069,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940629005903,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940617373268,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940616857174,
+   "Excitatory x Connectivity": -6
+  },
+  {
+   "post_id": 720575940610621026,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940636649061,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940636552805,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940612888178,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940610258552,
+   "Excitatory x Connectivity": -11
+  },
+  {
+   "post_id": 720575940618514043,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940607188610,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940628709019,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940633796252,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940619173534,
+   "Excitatory x Connectivity": -7
+  },
+  {
+   "post_id": 720575940615323298,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940621057702,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940620263088,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940635596468,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940620867254,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940623476407,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940624623287,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940616017593,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940625612474,
+   "Excitatory x Connectivity": -195
+  },
+  {
+   "post_id": 720575940615958203,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940629378754,
+   "Excitatory x Connectivity": -10
+  },
+  {
+   "post_id": 720575940607272649,
+   "Excitatory x Connectivity": -28
+  },
+  {
+   "post_id": 720575940625477322,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940626159306,
+   "Excitatory x Connectivity": -10
+  },
+  {
+   "post_id": 720575940619853515,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940612306641,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940617031385,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940624625388,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940620746478,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940650282742,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940629692155,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940630793979,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940620898053,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940622898957,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940631299855,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940631967506,
+   "Excitatory x Connectivity": -11
+  },
+  {
+   "post_id": 720575940613154582,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940622235425,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940624967463,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940610055982,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940625821488,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940618600246,
+   "Excitatory x Connectivity": -48
+  },
+  {
+   "post_id": 720575940630865724,
+   "Excitatory x Connectivity": -43
+  },
+  {
+   "post_id": 720575940638125887,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940638719807,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940615626562,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940610058052,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940638271302,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940627812168,
+   "Excitatory x Connectivity": -57
+  },
+  {
+   "post_id": 720575940631406411,
+   "Excitatory x Connectivity": -6
+  },
+  {
+   "post_id": 720575940631072587,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940632835923,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940615153494,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940621399899,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940610803554,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940636647269,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940645521262,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940616077173,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940630695798,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940627107721,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940625164176,
+   "Excitatory x Connectivity": -5
+  },
+  {
+   "post_id": 720575940623482772,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940632387484,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940615583647,
+   "Excitatory x Connectivity": -17
+  },
+  {
+   "post_id": 720575940632602532,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940625641402,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940625047484,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940624967612,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940635578303,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940614465478,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940607451081,
+   "Excitatory x Connectivity": -10
+  },
+  {
+   "post_id": 720575940626163658,
+   "Excitatory x Connectivity": -11
+  },
+  {
+   "post_id": 720575940619530187,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940633212876,
+   "Excitatory x Connectivity": -4
+  },
+  {
+   "post_id": 720575940630403031,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940630964188,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940630181852,
+   "Excitatory x Connectivity": -16
+  },
+  {
+   "post_id": 720575940604727264,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940623697898,
+   "Excitatory x Connectivity": -11
+  },
+  {
+   "post_id": 720575940623663084,
+   "Excitatory x Connectivity": -3
+  },
+  {
+   "post_id": 720575940624943084,
+   "Excitatory x Connectivity": -6
+  },
+  {
+   "post_id": 720575940621150191,
+   "Excitatory x Connectivity": -1
+  },
+  {
+   "post_id": 720575940612354034,
+   "Excitatory x Connectivity": -2
+  },
+  {
+   "post_id": 720575940626528252,
+   "Excitatory x Connectivity": -8
+  },
+  {
+   "post_id": 720575940624224253,
+   "Excitatory x Connectivity": -14
+  }
+ ],
+ "quint_membership_scores": {
+  "720575940623352063": 0.05251436529639373,
+  "720575940632047890": 0.8886194258457321,
+  "720575940615671106": 0.1286782384128553,
+  "720575940619973712": 0.14835845331754377,
+  "720575940638103349": -0.036649261551514455,
+  "720575940620274085": -0.26397660717870036,
+  "720575940629778554": -0.05258149687934734
+ }
+}

@@ -59,13 +59,12 @@ Everything else moves MN9 by less than ±35%, most under 10%.
 
 ## 3. Parallel relays, then the tier below them
 
-- **Pair** (silence both relays): MN9 → **8.9 Hz, 42% of baseline**, with
-  single-relay silencing at 57% and 61%. Pair is *worse than either single*
-  (and sits between the multiplicative 0.57×0.61≈0.34 and additive 1−0.43−0.39
-  ≈0.17 predictions): the two relays act as **parallel, partially redundant
-  channels** — each carries roughly half the drive, so removing either one
-  still leaves a working path. (Serial would predict pair ≈ the downstream
-  single ≈ 0.57–0.61. Not observed.)
+- **Pair** (silence both relays): MN9 → **8.9 Hz, 42% of baseline**
+  (ratio ±0.08 SEM from 10-trial means), with single-relay silencing at 57%
+  and 61%. The observed ratio is **consistent with independent parallel
+  channels** — the multiplicative prediction 0.57×0.61 = 0.34 lies within
+  1 SEM of 0.42 — while the serial prediction (pair ≈ the weaker single ≈
+  0.57) and the additive prediction (0.17) are excluded at ~2 and ~3 SEM.
 - **Quint** (pair + 3 more from the screen's next tier): MN9 → **5.5 Hz,
   26%.** Which three actually joined? The parquets don't record silenced
   sets (silencing zeroes outgoing synapses; the cells keep spiking, their
@@ -165,7 +164,7 @@ project.
 ## 6. What the wiring alone bought, and what it can't
 
 Explained by pure anatomy, zero tuning: a threshold dose-response curve,
-parallel partially-redundant relays feeding a distributed second-order layer,
+independent parallel relays feeding a distributed second-order layer,
 a feed-forward inhibitory brake onto the premotor bottleneck, and a fully
 floored output under combined lesion. The connectome is the circuit — the
 pipeline from GRNs to proboscis is in the wiring.

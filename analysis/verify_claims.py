@@ -93,6 +93,12 @@ def mn9_rate(name):
     sub = df[df.flywire_id == ID_MN9]
     return len(sub) / (1.0 * n), n
 
+def mn9_trials(name):
+    df = pd.read_parquet(f'results/mine/{name}.parquet')
+    df = df[df.flywire_id == ID_MN9]
+    return df.groupby('trial').size().reindex(
+        range(df.trial.max() + 1)).fillna(0).values.astype(float)
+
 print('\n== 5. lesion table recomputed from raw parquets ==')
 base, _ = mn9_rate('slnc50_none')
 rep2, _ = mn9_rate('slnc50_none_rep2')
@@ -101,12 +107,23 @@ for nm in ['slnc50_none', 'slnc50_pair', 'slnc50_quint', 'slnc50_sept',
            'slnc50_trio', 'slnc50_dec']:
     r, n = mn9_rate(nm)
     print(f'  {nm:14s} MN9 = {r:5.1f} Hz  ({r/base*100:4.0f}%)  n_run={n}')
-s1, _ = mn9_rate(f'slnc50_{RELAYS[0]}')
-s2, _ = mn9_rate(f'slnc50_{RELAYS[1]}')
-print(f'  singles: relay1 {s1:.1f} ({s1/base:.2f}), relay2 {s2:.1f} ({s2/base:.2f});'
-      f'  pair/base = {(mn9_rate("slnc50_pair")[0])/base:.2f};'
-      f'  product of singles = {s1/base*s2/base:.2f};'
-      f'  additive = {max(0, 1-(1-s1/base)-(1-s2/base)):.2f}')
+
+# topology test with SEMs: multiplicative (independent parallel) vs
+# serial vs additive. Delta-method SEM on independent-run ratios.
+def sem(t):
+    return t.std(ddof=1) / np.sqrt(len(t))
+
+tb, tp = mn9_trials('slnc50_none'), mn9_trials('slnc50_pair')
+t1, t2 = mn9_trials(f'slnc50_{RELAYS[0]}'), mn9_trials(f'slnc50_{RELAYS[1]}')
+r = tp.mean() / tb.mean()
+e_r = r * np.sqrt((sem(tp)/tp.mean())**2 + (sem(tb)/tb.mean())**2)
+r1, r2 = t1.mean()/tb.mean(), t2.mean()/tb.mean()
+print(f'  singles: relay1 {r1:.2f}, relay2 {r2:.2f};  observed pair/base '
+      f'= {r:.2f} ± {e_r:.2f}')
+for label, pred in [('multiplicative (independent parallel)', r1*r2),
+                    ('serial (≈ weaker single)', min(r1, r2)),
+                    ('additive', max(0.0, 1-(1-r1)-(1-r2)))]:
+    print(f'  {label:42s} predicts {pred:.2f} -> {abs(r-pred)/e_r:4.1f} SEM')
 
 # ---------- 6: quint membership, target-restricted ----------
 print('\n== 6. quint membership (corr on each candidate\'s OWN direct targets) ==')
